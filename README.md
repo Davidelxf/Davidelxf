@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**Davidelxf/Davidelxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Backend Developer focused on building and maintaining backend systems, REST APIs and integrations between business applications.
 
-Here are some ideas to get you started:
+My professional background includes Python, Django, Flask, SQL, Docker and system integration. I'm currently expanding that experience through personal backend projects with FastAPI, SQLAlchemy, asynchronous processing and AWS-oriented tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+
+### [syncbridge-python](https://github.com/Davidelxf/syncbridge-python)
+
+A small Python middleware project focused on event-driven integration between systems.
+
+Current functionality:
+
+- Event ingestion with FastAPI
+- Contract validation with Pydantic
+- Persistence with SQLAlchemy
+- Event lifecycle and traceability
+- Automated tests with pytest
+
+Planned evolution includes asynchronous processing, idempotency, retries and a local AWS-compatible environment using SQS/S3 with LocalStack.
+
+## Main technologies
+
+Python · Django · Flask · FastAPI · REST APIs · SQL · SQLAlchemy · Docker · pytest · Git
+
+## Find me
+
+- LinkedIn: [your LinkedIn URL]
