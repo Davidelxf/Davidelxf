@@ -26,4 +26,4 @@ Python · Django · Flask · FastAPI · REST APIs · SQL · SQLAlchemy · Docker
 
 ## Find me
 
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/david-elche-fernandez/
